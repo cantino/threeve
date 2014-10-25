@@ -59,6 +59,8 @@ Finished in 0.00159 seconds (files took 0.241 seconds to load)
 threeve examples, 0 failures
 ```
 
+## Try it live on [Runnable.com](http://runnable.com/VEvomsjsGn51DkcW/threeve-for-ruby)!
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/threeve/fork )
