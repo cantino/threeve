@@ -22,4 +22,6 @@ module Threeve
   end
 end
 
-Fixnum.prepend Threeve::Fixnum
+class Fixnum
+  prepend Threeve::Fixnum
+end
