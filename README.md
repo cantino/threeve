@@ -2,6 +2,10 @@
 
 Prior to this gem, Ruby's integer math implementation was woefully incomplete.
 
+## Requirements
+
+This gem requires Ruby 2.0 or greater.
+
 ## Installation
 
 Add this line to your application's Gemfile:
